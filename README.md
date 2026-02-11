@@ -1,8 +1,5 @@
 # 📘 Data Science Tools and Ecosystem
 
-![Badge](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&logo=jupyter)
-![Badge](https://img.shields.io/badge/IBM-Data%20Science-blue?style=flat&logo=ibm)
-![Badge](https://img.shields.io/badge/Project%20Status-Completed-success)
 
 ## 🧠 Overview
 
