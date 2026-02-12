@@ -1,131 +1,128 @@
-# 📘 Data Science Tools and Ecosystem
+# 🚀 Jupyter Notebook
 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🧠 Overview
-
-This repository contains the final assignment from the **IBM Data Science Professional Certificate** course. The notebook titled `DataScienceEcosystem.ipynb` was created using **Jupyter Notebook** and covers key topics related to data science tools and ecosystem.
-
-> 💡 This project focuses on using markdown and code cells in Jupyter to document and execute simple data science tasks.
+[English](#english) | [Português](#português)
 
 ---
 
-## 📑 Notebook Summary
+## English
 
-### 🔷 Title and Introduction
+### 🎯 Overview
 
-- Created a **title cell** using Markdown with `#` header syntax.
-- Introduced the notebook with a brief statement:
-  > *"In this notebook, Data Science Tools and Ecosystem are summarized."*
+**Jupyter Notebook** — Coursera - IBM Data Science
 
-### 💬 Listed Elements
+Total source lines: **0** across **0** files in **0** languages.
 
-#### 🔹 Popular Languages Used in Data Science
+### ✨ Key Features
 
-An ordered list of essential programming languages:
-1. Python  
-2. R  
-3. SQL  
-4. Julia  
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-#### 🔹 Commonly Used Libraries
+### 🚀 Quick Start
 
-A list of powerful data science libraries:
-1. Pandas  
-2. NumPy  
-3. Matplotlib  
-4. Scikit-learn  
+#### Prerequisites
+- See requirements below
 
-#### 🔹 Data Science Tools Table
 
-A markdown table displaying open-source development environments:
+#### Installation
 
-| Data Science Tools     |
-|------------------------|
-| Jupyter Notebook       |
-| RStudio                |
-| Apache Zeppelin        |
-
----
-
-## 🔢 Code Exercises
-
-### ➕ Arithmetic Expression
-
-- Evaluated the expression `(3 * 4) + 5`
-- **Output:** `17`
-
-```python
-# This a simple arithmetic expression to multiply then add integers
-(3*4)+5
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Jupyter-Notebook.git
+cd Jupyter-Notebook
 ```
 
-### ⏱️ Minutes to Hours Conversion
 
-- Converted `200 minutes` to hours  
-- **Output:** `3.333... hours`
 
-```python
-# This will convert 200 minutes to hours by dividing by 60
-200 / 60
+
+
+
+
+
+### 📁 Project Structure
+
+```
+Jupyter-Notebook/
+└── README.md
 ```
 
----
+### 🛠️ Tech Stack
 
-## 🎯 Objectives
+| Technology | Usage |
+|------------|-------|
+| N/A | N/A |
 
-**Objectives:**
+### 📄 License
 
-- ✔️ List popular languages for Data Science  
-- ✔️ Identify commonly used libraries  
-- ✔️ Create tables using Markdown  
-- ✔️ Perform arithmetic operations in code cells  
-- ✔️ Convert time units (minutes to hours)  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+### 👤 Author
 
-## 👨‍💻 Author
+**Gabriel Demetrios Lafis**
 
-## Author  
-Gabriel Demetrios Lafis
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
 
 ---
 
-## 🌐 GitHub Repository
+## Português
 
-The notebook and all associated screenshots have been uploaded to this repository. You can find the notebook [here](./DataScienceEcosystem.ipynb).
+### 🎯 Visão Geral
 
-📸 All required screenshots have been captured and submitted for peer review.
+**Jupyter Notebook** — Coursera - IBM Data Science
 
----
+Total de linhas de código: **0** em **0** arquivos em **0** linguagens.
 
-## 📥 How to Run the Notebook
+### ✨ Funcionalidades Principais
 
-To view or edit this notebook locally:
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+### 🚀 Início Rápido
 
-2. Open it with Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
+#### Pré-requisitos
+- Veja os requisitos abaixo
 
-Alternatively, view it directly on GitHub or use platforms like [nbviewer](https://nbviewer.org/) or [Google Colab](https://colab.research.google.com/).
 
----
+#### Instalação
 
-## ✅ Status
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Jupyter-Notebook.git
+cd Jupyter-Notebook
+```
 
-**Project Completed ✅**  
-All instructions were followed exactly as requested in the course material. This notebook is ready for peer submission.
 
----
 
-## 📌 License
 
-This project is part of the IBM Skills Network and is subject to their terms of use.
 
----
+
+
+### 📁 Estrutura do Projeto
+
+```
+Jupyter-Notebook/
+└── README.md
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| N/A | N/A |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
